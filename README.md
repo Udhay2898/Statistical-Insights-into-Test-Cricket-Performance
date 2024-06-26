@@ -1,1 +1,1 @@
-Use visualizations and statistical analysis to uncover patterns and trends in the data.
+This project makes use of Excel and Python’s  Pandas package to analyze Test Cricket stats. I crack the code on player performance, identify batting strengths, and compare teams. I hope to learn more about the variables that determine Test Cricket greatness by evaluating statistical data.
